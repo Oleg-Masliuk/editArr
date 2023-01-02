@@ -4,7 +4,8 @@ const inputArr = {"data": [
     {"name": "Aohn", "email": "john25@mail.com"},
     {"name": "John", "email": "john61@mail.com"},
     {"name": "Bohn", "email": "john25@mail.com"},
-    {"name": "John", "email": "john45@mail.com"},
+    {"name": "Bohn", "email": "john25@mail.com"},
+    {"name": "John", "email": "john99@mail.com"},
     {"name": "Cohn", "email": "john25@mail.com"}
 ]
 };
